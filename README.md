@@ -1,5 +1,5 @@
 # QuicklyOpen 技术服务支持 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 QuicklyOpen 是一个右键小工具
 * 新建空白文档
 * 新建json文档
